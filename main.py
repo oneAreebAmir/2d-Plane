@@ -1,3 +1,8 @@
+# Created By : AreebAmir
+# Date : 16/2/2023
+
+# Warning:- Anythin happen wrong to computer and your device or anyting you are using this code. We are not reponsible of any damages.
+
 import pygame
 import serial
 
