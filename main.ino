@@ -1,3 +1,7 @@
+// Created By : AreebAmir
+// Date : 16/2/2023
+
+// Warning:- Anythin happen wrong to computer and your device or anyting you are using this code. We are not reponsible of any damages
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
 #include <Adafruit_ADXL345_U.h>
